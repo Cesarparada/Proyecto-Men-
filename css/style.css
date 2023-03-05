@@ -3,15 +3,30 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+    background: rgba(97, 74, 74, 0.765);
+}
 .col {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  /* background-color: aquamarine; */
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
-/* .formulario {
+.formulario {
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-} */
+}
+.carta{
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+.titulohome{
+    padding: 1rem;
+}
+.letter{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
