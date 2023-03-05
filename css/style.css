@@ -1,12 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+}
 .col {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   border: 1px solid black;
 }
-.container{
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center; 
-}
+/* .formulario {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
