@@ -26,6 +26,11 @@ body{
 }
 .titulohome{
     padding: 1rem;
+    font-size: 4rem;
+}
+.titulohome2 {
+    padding: 1rem;
+    font-size: 2rem;
 }
 .letter{
     font-family:Georgia, 'Times New Roman', Times, serif;
