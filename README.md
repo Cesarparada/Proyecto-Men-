@@ -1,9 +1,7 @@
-
 <h3 align="center">Project Menú</h3>
 
 ---
 
- 
 </p>
 
 ## 📝 Table of Contents
@@ -11,7 +9,7 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [preview](#preview)
-- [Demo]( https://cesarparada.github.io/Proyecto-Menu/)
+- [Demo](https://cesarparada.github.io/Proyecto-Menu/)
 - [Prerequisites](#prerequisites)
 - [Built Using](#built_using)
 - [Acknowledgments](#acknowledgement)
@@ -25,6 +23,7 @@ Realization of a web page project in which a restaurant menu is designed using H
 for this, a code editor such as visisual estudio code is used, in HTML it must be linked with bootstrap for the designs and follow specific commands for its operation
 
 ## preview
+
 <img src="multimedia/vista uno.png" alt="">
 <img src="multimedia/vista dos.png" alt="">
 
@@ -36,7 +35,6 @@ Visual Studio Code and Bootstrap.
 
 - [Bootstrap](https://getbootstrap.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
