@@ -3,8 +3,8 @@
   padding: 0;
   box-sizing: border-box;
 }
-body{
-    background: rgba(97, 74, 74, 0.765);
+body {
+  background: rgba(97, 74, 74, 0.765);
 }
 .col {
   padding-top: 0.75rem;
@@ -17,21 +17,39 @@ body{
   justify-content: center;
   align-items: center;
 }
-.carta{
-    padding: 1rem;
-    display: flex;
-    justify-content: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-  
+.carta {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
-.titulohome{
-    padding: 1rem;
-    font-size: 4rem;
+.titulohome {
+  padding: 1rem;
+  font-size: 4rem;
 }
 .titulohome2 {
-    padding: 1rem;
-    font-size: 1rem;
+  padding: 1rem;
+  font-size: 1rem;
 }
-.letter{
-    font-family:Georgia, 'Times New Roman', Times, serif;
+.letter {
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
+
+#logonegro {
+  width: 130px;
+  height: 130px;
+}
+.footer{
+  width: 220px;
+  display: flex;
+ align-items: center;
+  justify-content: center;
+}
+.item{
+  background-color: rgba(53, 32, 7, 0.824);
+  width: 100%;
+  color: bisque;
+margin-top: 10px;
+}
+
+
