@@ -12,8 +12,8 @@ body {
   /* border: 1px solid black; */
 }
 .form {
-  margin-top: 100px;
-  width: 100%;
+  margin-top: 90px;
+  width: 500px;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -26,17 +26,38 @@ body {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 .titulohome {
-  padding: 1rem;
-  font-size: 4rem;
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
 }
 .titulohome2 {
-  padding: 1rem;
+  display: flex;
+  justify-content: center;
   font-size: 1rem;
 }
+@media (min-width: 550px) {
+  .titulohome {
+    display: flex;
+    justify-content: center;
+    font-size: 4rem;
+  }
+  .titulohome2 {
+    display: flex;
+    font-size: 2rem;
+  }
+}
+@media (min-width: 768px) {
+  .cardHome {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
 .letter {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
-
 #logonegro {
   width: 130px;
   height: 130px;
@@ -52,5 +73,8 @@ body {
   background-color: rgba(53, 32, 7, 0.824);
   width: 100%;
   color: bisque;
+  margin-top: 10px;
+}
+.container {
   margin-top: 10px;
 }
