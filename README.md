@@ -24,12 +24,12 @@ for this, a code editor such as visisual estudio code is used, in HTML it must b
 
 ## preview
 
-<img src="multimedia/vista uno.png" alt="">
-<img src="multimedia/vista dos.png" alt="">
+<img src="multimedia/mobilFirst.png" alt="Mobil first">
+<img src="multimedia/demo2.png" alt="Vista de Escritorio">
 
 ### Prerequisites
 
-Visual Studio Code and Bootstrap.
+Code editor.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
