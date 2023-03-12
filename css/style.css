@@ -12,7 +12,7 @@ body {
   /* border: 1px solid black; */
 }
 .form {
-  margin-top: 90px;
+  margin-top: 10px;
   width: 500px;
   height: 100%;
   display: flex;
@@ -35,15 +35,32 @@ body {
   justify-content: center;
   font-size: 1rem;
 }
+.carousel-inner img {
+  width: 100%;
+  max-height: 300px;
+}
+
+.carousel-inner {
+  height: 200px;
+}
 @media (min-width: 550px) {
   .titulohome {
     display: flex;
     justify-content: center;
     font-size: 4rem;
   }
+
   .titulohome2 {
     display: flex;
     font-size: 2rem;
+  }
+  .carousel-inner img {
+    width: 100%;
+    max-height: 480px;
+  }
+
+  .carousel-inner {
+    height: 400px;
   }
 }
 @media (min-width: 768px) {
@@ -76,5 +93,8 @@ body {
   margin-top: 10px;
 }
 .container {
+  margin-top: 10px;
+}
+.carrusel {
   margin-top: 10px;
 }
