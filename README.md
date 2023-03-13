@@ -12,6 +12,7 @@
 - [Demo](https://cesarparada.github.io/Proyecto-Menu/)
 - [Prerequisites](#prerequisites)
 - [Built Using](#built_using)
+- [Contact](#contact)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
@@ -24,8 +25,8 @@ for this, a code editor such as visisual estudio code is used, in HTML it must b
 
 ## preview
 
-<img src="multimedia/mobilFirst.png" alt="Mobil first">
-<img src="multimedia/demo2.png" alt="Vista de Escritorio">
+<img src="multimedia/mobil.png" alt="Mobil first">
+<img src="multimedia/ordenador.png" alt="Vista de Escritorio">
 
 ### Prerequisites
 
@@ -36,6 +37,10 @@ Code editor.
 - [Bootstrap](https://getbootstrap.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
+## Contact
+
+![Capture](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- Professor. Fidel Gilart & Mara Scampini.
+- Professor. Fidel Gilart.
