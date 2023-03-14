@@ -39,7 +39,7 @@ Code editor.
 
 ## Contact
 
-![Capture](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:cesard.0925@gmail.com">![Capture](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 

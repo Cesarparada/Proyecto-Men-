@@ -75,7 +75,6 @@ h5 {
   }
 
   .titulohome2 {
-    display: flex;
     font-size: 2rem;
   }
   .carousel-inner img {
@@ -109,7 +108,7 @@ h5 {
   height: 100%;
   background-color: rgba(53, 32, 7, 0.824);
   width: 100%;
-  color: bisque;
+  color: rgb(255, 228, 196);
   margin-top: 10px;
 }
 .container {
@@ -117,4 +116,11 @@ h5 {
 }
 .carrusel {
   margin-top: 10px;
+}
+.enlace{
+  text-decoration: none;
+  color: rgb(255, 228, 196);
+}
+.letter{
+  color: black;
 }
